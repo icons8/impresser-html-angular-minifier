@@ -1,0 +1,20 @@
+{
+  "name": "impress-html-angular-minify",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/icons8/impress-html-angular-minify"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "html-minifier": "kangax/html-minifier#25b23bcb12"
+  },
+  "scripts": {
+    "test": "jshint index.js && node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "jshint": "^2.4.1",
+    "mocha": "^2.2.4",
+    "should": "^4.6.5"
+  }
+}
