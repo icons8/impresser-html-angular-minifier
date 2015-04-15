@@ -1,6 +1,7 @@
 {
   "name": "impress-html-angular-minify",
-  "version": "0.1.0",
+  "description": "Impress HTML AngularJS minify",
+  "version": "0.1.1",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/icons8/impress-html-angular-minify"
