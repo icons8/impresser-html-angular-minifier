@@ -1,7 +1,7 @@
 {
   "name": "impresser-html-angular-minifier",
   "description": "Impresser HTML AngularJS minifier",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/icons8/impresser-html-angular-minifier"
