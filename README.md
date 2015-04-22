@@ -1,1 +1,1 @@
-# Impress HTML AngularJS minify
+# Impresser HTML AngularJS minifier

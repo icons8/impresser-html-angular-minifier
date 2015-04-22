@@ -1,10 +1,10 @@
 {
-  "name": "impress-html-angular-minify",
-  "description": "Impress HTML AngularJS minify",
+  "name": "impresser-html-angular-minifier",
+  "description": "Impresser HTML AngularJS minifier",
   "version": "0.1.1",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/icons8/impress-html-angular-minify"
+    "url": "https://github.com/icons8/impresser-html-angular-minifier"
   },
   "license": "MIT",
   "dependencies": {
