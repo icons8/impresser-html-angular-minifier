@@ -12,6 +12,14 @@ describe('impresser-html-angular-minifier', function () {
       .equal('<input class="" required="required"/>');
   });
 
+  it('should work html entities', function() {
+    var
+      minifier = new HtmlAngularMinifier();
+
+    should(minifier.apply('<div>&lt;</div>'))
+      .equal('<div>&lt;</div>');
+  });
+
   //it('svg should work', function() {
   //  var
   //    minifier = new HtmlAngularMinifier();
